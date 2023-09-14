@@ -39,7 +39,7 @@
 
 ## Attribution
 
-Blender,Everyone should be free to create 3D CG content, with free technical and creative production means and free access to markets. https://www.blender.org/
+Blender, Everyone should be free to create 3D CG content, with free technical and creative production means and free access to markets. https://www.blender.org/
 
 Python, Python is a programming language that lets you work quickly
 and integrate systems more effectively. https://www.python.org
